@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Teddy ignore:
+
+
 # C extensions
 *.so
 

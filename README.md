@@ -1,1 +1,2 @@
 # Fish Weights
+ In this project, we worked on predicting the weights of fish in grams based on their dimensions. We tested different regularization techniques, such as Ridge, Lasso, and standard linear regression, and determined that Ridge regularization worked the best. We also troubleshooted multiple problems - at one point we discovered the scaling for our train and test data were misaligned. Additionally, we also had trouble reducing our loss for the test model; in the future we will try to work on getting lower loss.
